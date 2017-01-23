@@ -1,3 +1,35 @@
+* {
+font-family: 'Helvetica', 'Times', serif;
+}
+
 h1 {
-  color: #0066ff
+color: White;
+text-align: center;
+font-family: 'Overpass';
+
+}
+
+h2 {
+  color: White;
+  text-align: center;
+  font-family: 'Overpass';
+ }
+
+.links {
+  font-size: 18px;
+  text-align: center;
+  background-color: #A4DA65
+
+}
+
+
+.headers {
+  background-image: url("http://i.huffpost.com/gen/4393678/images/o-THE-MATRIX-facebook.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100px;
+  position: relative;
+
+
+
 }
